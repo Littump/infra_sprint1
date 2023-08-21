@@ -1,0 +1,5 @@
+IP: 130.193.52.245;
+name_taski: https://yndxprklittump.serveblog.net;
+name_kittygram: https://kwqwudqweqw.ddns.net;
+login: user;
+password: pass;
